@@ -13,17 +13,17 @@
 
 ### Para rodar seu ambiende deve possuir:
 
-1. Git Bash
+1. Git Bash <br/>
 https://gitforwindows.org/
 
-2. Java + Maven:
-https://www.java.com/pt-BR/
+2. Java + Maven: <br/>
+https://www.oracle.com/java/technologies/downloads/ <br/>
 https://maven.apache.org/
 
-3. IDE da sua escolha (Recomendo IntelliJ Idea)
+3. IDE da sua escolha (Recomendo IntelliJ Idea) <br/>
 https://www.jetbrains.com/pt-br/idea/
 
-4. Baixar Geckodriver e jogar na raiz do projeto **
+4. Baixar Geckodriver e jogar na raiz do projeto ** <br/>
 https://github.com/mozilla/geckodriver/releases
 ![image](https://user-images.githubusercontent.com/12284353/145303027-9a490ca8-b47f-4647-81f2-799a418f6429.png)
 
