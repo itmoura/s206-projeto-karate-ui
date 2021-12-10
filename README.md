@@ -28,6 +28,9 @@ https://github.com/mozilla/geckodriver/releases
 ![image](https://user-images.githubusercontent.com/12284353/145303027-9a490ca8-b47f-4647-81f2-799a418f6429.png)
 
 ### Rodando o projeto via command Line:
+  - Com o projeto já clonando, abra o "git bash here"
+  - Abra o projeto no seu cmd, gitbash, ou outro de sua preferencia.
+  - Atente-se ao item 4 **, para não ocasionar em erros.
   ```maven
     mvn test -Dtest=InatelTest  
   ```
