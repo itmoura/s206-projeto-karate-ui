@@ -27,7 +27,12 @@ https://www.jetbrains.com/pt-br/idea/
 https://github.com/mozilla/geckodriver/releases
 ![image](https://user-images.githubusercontent.com/12284353/145303027-9a490ca8-b47f-4647-81f2-799a418f6429.png)
 
-### Rodando o projeto:
+### Rodando o projeto via command Line:
+  ```maven
+    mvn test -Dtest=InatelTest  
+  ```
+
+### Rodando o projeto via IDE:
 
 - Com o projeto já clonando, abra o "git bash here"
 - Abra o projeto com a sua IDE (no examplo, irei utilziar IntelliJ Idea)
